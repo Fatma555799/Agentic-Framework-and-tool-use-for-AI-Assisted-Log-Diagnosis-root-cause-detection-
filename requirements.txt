@@ -1,0 +1,7 @@
+pymavlink
+pandas
+numpy
+scikit-learn 
+langchain     
+langchain-openai  
+python-dotenv
